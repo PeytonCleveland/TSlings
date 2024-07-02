@@ -130,3 +130,6 @@ dist
 .pnp.*
 
 .user_progress.json
+
+**/.DS_Store
+**/.vscode
